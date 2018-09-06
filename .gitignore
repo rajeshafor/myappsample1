@@ -1,2 +1,6 @@
 log.txt
+<<<<<<< HEAD
 /dir2
+=======
+/dir2	
+>>>>>>> login
